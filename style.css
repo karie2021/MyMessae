@@ -1,0 +1,18 @@
+body {
+  background: aqua;
+}
+
+.btn {
+  width: 140px;
+  height: 30px;
+  color: blue;
+  background: pink;
+  text-align: center;
+  padding: 45px auto;
+}
+
+#message {
+  text-align: center;
+  font-size: 25px;
+  color: blue;
+}
